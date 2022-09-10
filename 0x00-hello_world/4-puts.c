@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+/**
+ *
+ *  * main - Entry point
+ *
+ *Author: Oluwanifemi Roberts     
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 
 {
