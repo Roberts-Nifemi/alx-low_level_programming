@@ -2,7 +2,8 @@
 #include<ctype.h>
 /**
  * main - prints the alphabet in lowercase
- * Return : Always 0 (success)
+ * You can only uuse the putchar
+ * Return : Always 0 (Success)
  */
 
 int main(void)
@@ -15,6 +16,6 @@ int main(void)
 		i += 1;
 	}
 	putchar ('\n');
-	return(0);
+	return (0);
 }
 
