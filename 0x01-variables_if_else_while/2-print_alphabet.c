@@ -3,7 +3,8 @@
 /**
  * main - prints the alphabet in lowercase
  * You can only uuse the putchar
- * Return : Always 0 (Success)
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
